@@ -1,7 +1,7 @@
 # Hi, I'm Insha !
 
-👩‍💻 I'm a third year Btech IT undergrad and tech-enthusiast<br/>
-💬 Ask me about Python, Web Development, AI, SQL, Linux<br/>
+👩‍💻 I'm a final year Btech IT undergrad and tech-enthusiast<br/>
+💬 Ask me about AI, Data, Cloud <br/>
 🙋‍♀️ I'm looking to contribute in open source and build projects to expand my knowledge<br/>
 
 
